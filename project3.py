@@ -3,11 +3,13 @@ def quest():
     score=0
     tup1=['1.full form of w: ',
             '2.full form of d:',
-            '3.full form of o ']
+            '3.full form of o '
+             '4.full form of CN: ']
     #print(tup1)
     tup2=[['a.world','b.devil','c.oganize'],
             ['a.world','b.devil','c.oganize'],
-            ['a.world','b.devil','c.oganize']]
+            ['a.world','b.devil','c.oganize'],
+            ['a.common fraphics','b.computer networks','common notation']]
     #print(tup2)
 
     list1=['world','devil','oganize']
