@@ -12,7 +12,7 @@ def quest():
             ['a.common fraphics','b.computer networks','common notation']]
     #print(tup2)
 
-    list1=['world','devil','oganize']
+    list1=['world','devil','oganize','computer networks']
 
     for i in range(len(tup1)):
             print(tup1[i])
