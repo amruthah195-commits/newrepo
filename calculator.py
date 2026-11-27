@@ -1,0 +1,7 @@
+a=int(input("enter value of a: "))
+b=int(input("enter value of b: "))
+print("1.addition")
+print("2.subtraction")
+print(a+b)
+print(a-b)
+print("thie is your add and sub file")
